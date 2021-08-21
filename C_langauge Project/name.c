@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("Hello World! \n");
+	printf("È«±æµ¿ \nÈ« ±æ µ¿ \nÈ«  ±æ  µ¿ \n");
 	return 0;
 }
