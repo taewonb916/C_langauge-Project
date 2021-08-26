@@ -39,5 +39,23 @@
     <ClCompile Include="scanf5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BitOperation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitOperation2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCII1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCII2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCII3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCII4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
