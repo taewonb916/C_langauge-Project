@@ -90,5 +90,8 @@
     <ClCompile Include="for2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PyramidProject.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
