@@ -39,12 +39,6 @@
     <ClCompile Include="scanf5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BitOperation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BitOperation2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="ASCII1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -55,6 +49,45 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ASCII4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitOperation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitOperation2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="whileloop1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="whileloop2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dowhile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dowhile2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
